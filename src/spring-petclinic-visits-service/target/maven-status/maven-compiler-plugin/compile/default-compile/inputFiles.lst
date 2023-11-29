@@ -1,0 +1,5 @@
+/workspaces/java-microservices-aks-lab/src/spring-petclinic-visits-service/src/main/java/org/springframework/samples/petclinic/visits/VisitsServiceApplication.java
+/workspaces/java-microservices-aks-lab/src/spring-petclinic-visits-service/src/main/java/org/springframework/samples/petclinic/visits/model/VisitRepository.java
+/workspaces/java-microservices-aks-lab/src/spring-petclinic-visits-service/src/main/java/org/springframework/samples/petclinic/visits/web/VisitResource.java
+/workspaces/java-microservices-aks-lab/src/spring-petclinic-visits-service/src/main/java/org/springframework/samples/petclinic/visits/model/Visit.java
+/workspaces/java-microservices-aks-lab/src/spring-petclinic-visits-service/src/main/java/org/springframework/samples/petclinic/visits/config/MetricConfig.java
